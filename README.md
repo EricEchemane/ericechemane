@@ -1,8 +1,8 @@
 ### Hi ☕Coffee Coders! 👋
 
-- 🔭 I’m currently [Meryenda PH](https://github.com/EricEchemane/Meryenda-PH)
-- 🌱 I’m currently react-native
-- 👯 I’m looking to collaborate on github
+- 🔭 I’m currently working on [Meryenda PH](https://github.com/EricEchemane/Meryenda-PH)
+- 🌱 I’m currently learning React-native
+- 👯 I’m looking for project collaboration
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/eric-echemane-2a3543229/), [Youtube](https://www.youtube.com/channel/UCEjAjj6pswmd04eHhsqOZmw)
 - ⚡ Fun fact: Coffee is Life!
 
