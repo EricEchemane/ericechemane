@@ -2,9 +2,9 @@
 
 🧑‍💻Check this out => my inspirational projects...
 
--✔️[Sorting Algorithms Comparison Visualization Tool](https://ees-visualizer.netlify.app/sorting)
--✔️[Searching Algorithms Comparison Visualization Tool](https://ees-visualizer.netlify.app/searching)
--✔️[Path-finding Algorithms Comparison Visualization Tool](https://ees-visualizer.netlify.app/path-finding)
+- ✔️[Sorting Algorithms Comparison Visualization Tool](https://ees-visualizer.netlify.app/sorting)
+- ✔️[Searching Algorithms Comparison Visualization Tool](https://ees-visualizer.netlify.app/searching)
+- ✔️[Path-finding Algorithms Comparison Visualization Tool](https://ees-visualizer.netlify.app/path-finding)
 
 - 🔭 I’m currently working on [Meryenda App](https://github.com/EricEchemane/Meryenda-PH)
 - 🌱 I’m currently learning flutter
