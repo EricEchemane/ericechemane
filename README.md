@@ -3,7 +3,7 @@
 </h3>
 
 <h5 align="center">
-🌟An Engineer who wants to Percieve Value🌟
+🌟An Engineer who wants to Perceive Value🌟
 </h5>
 
 <div align="center">
