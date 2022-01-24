@@ -1,6 +1,6 @@
-<h2 align="center">
-⚡I am EngineX⚡<br/> A Unicorn🦄 bridging the gap <br/> between ✔️Development and ✔️Design.
-</h2>
+<h3 align="center">
+⚡I am EngineX⚡<br/> A Unicorn bridging the gap between <br/> Development✔️ and Design✔️.
+</h3>
 
 <h5 align="center">
 🌟An Engineer who wants to Percieve Value🌟
