@@ -1,5 +1,5 @@
 <h3 align="center">
-⚡I am EngineX⚡<br/> A Unicorn bridging the gap between <br/> Development✔️ and Design✔️
+  A Unicorn bridging the gap between <br/> Development✔️ and Design✔️
 </h3>
 
 <h5 align="center">
