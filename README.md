@@ -26,6 +26,7 @@
 
 #### 🧑‍💻Check this out => my ⚡inspirational Projects...
 
+- ✔️[EngineX | Your OpenAI Assistant](https://enginex.vercel.app/)
 - ✔️[Sorting Algorithms Comparison Visualizer](https://ees-visualizer.netlify.app/sorting)
 - ✔️[Searching Algorithms Comparison Visualizer](https://ees-visualizer.netlify.app/searching)
 - ✔️[Path-finding Algorithms Comparison Visualizer](https://ees-visualizer.netlify.app/path-finding)
