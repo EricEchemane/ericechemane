@@ -9,7 +9,7 @@
 <div align="center">
   
 [![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![NextJs](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=PostgreSQL&logoColor=61DAFB)
+[![postgres](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=PostgreSQL&logoColor=61DAFB)](https://www.postgresql.org/)
 [![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)](https://socket.io/)
