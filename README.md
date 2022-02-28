@@ -33,5 +33,3 @@
 
 - 🔭 I’m currently working on [Graph-based Covid-19 Contact Tracing Algorithm](https://github.com/EricEchemane/Graph-based-Covid-19-Contact-Tracing-Algorithm)
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/eric-echemane-2a3543229/), [Youtube](https://www.youtube.com/channel/UCEjAjj6pswmd04eHhsqOZmw)
-
-![](https://github-readme-stats.vercel.app/api?username=ericechemane&&show_icons=true&title_color=ffffff&icon_color=00ffd0&text_color=ffffff&bg_color=052529)
