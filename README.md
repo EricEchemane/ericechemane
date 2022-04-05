@@ -9,7 +9,7 @@
 
 #### 🧑‍💻Check this out => my ⚡inspirational Projects...
 
-- ✔️[Assessing the Correlation of a Product Review Comment and its Score Rating Through Machine Learning](https://github.com/EricEchemane/Assessing-the-Correlation-of-a-Product-Review-Comment-and-its-Score-Rating)
+- ✔️[Assessing the Correlation of a Product Review Comment and its Score Rating Through Machine Learning](https://product-review-score-matcher.herokuapp.com/)
 - ✔️[EngineX | Your OpenAI Assistant](https://enginex.vercel.app/)
 - ✔️[Master Keeper](https://masterkeeper.herokuapp.com/)
 - ✔️[Sorting Algorithms Comparison Visualizer](https://ees-visualizer.netlify.app/sorting)
