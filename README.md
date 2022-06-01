@@ -8,7 +8,7 @@
 
 <br/>
 
-#### 🧑‍I'm currently working on [Chrollo UI](https://github.com/EricEchemane/chrollo)
+#### 🧑‍Visit my [e-profile](https://ericechemane.vercel.app/)
 
 
 #### 🧑‍💻Check this out => my ⚡inspirational Projects...
