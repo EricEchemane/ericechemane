@@ -13,6 +13,7 @@
 
 #### 🧑‍💻Check this out => my ⚡inspirational Projects...
 
+- ✔️[Pixsoil - Soil Type Scanner](https://pixsoil.vercel.app/)
 - ✔️[Assessing the Correlation of a Product Review Comment and its Score Rating Through Machine Learning](https://product-review-score-matcher.herokuapp.com/)
 - ✔️[EngineX | Your OpenAI Assistant](https://enginex.vercel.app/)
 - ✔️[Master Keeper](https://masterkeeper.herokuapp.com/)
