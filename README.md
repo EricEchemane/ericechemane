@@ -4,22 +4,13 @@
 
 <h5 align="center">
 🌟An Engineer who wants to Perceive Value🌟
+<br/>
 </h5>
 
-<br/>
+<div align="center">
 
-#### 🧑‍Visit my [e-profile](https://ericechemane.vercel.app/)
+#### [🧑‍ About me](https://ericechemane.vercel.app/)
 
+- 📫 Reach me here: [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/eric-echemane-2a3543229/), [Youtube](https://www.youtube.com/channel/UCEjAjj6pswmd04eHhsqOZmw)
 
-#### 🧑‍💻Check this out => my ⚡inspirational Projects...
-
-- ✔️[Pixsoil - Soil Type Scanner](https://pixsoil.vercel.app/)
-- ✔️[Assessing the Correlation of a Product Review Comment and its Score Rating Through Machine Learning](https://product-review-score-matcher.herokuapp.com/)
-- ✔️[EngineX | Your OpenAI Assistant](https://enginex.vercel.app/)
-- ✔️[Master Keeper](https://masterkeeper.herokuapp.com/)
-- ✔️[Sorting Algorithms Comparison Visualizer](https://ees-visualizer.netlify.app/sorting)
-- ✔️[Searching Algorithms Comparison Visualizer](https://ees-visualizer.netlify.app/searching)
-- ✔️[Path-finding Algorithms Comparison Visualizer](https://ees-visualizer.netlify.app/path-finding)
-- 🍵[Mascota de Cafe Coffee Company](https://mascotadecafe.vercel.app)
-
-- 📫 How to reach me: [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/eric-echemane-2a3543229/), [Youtube](https://www.youtube.com/channel/UCEjAjj6pswmd04eHhsqOZmw)
+</div>
