@@ -11,6 +11,6 @@
 
 #### [🧑‍ About me](https://ericechemane.vercel.app/)
 
-- 📫 Reach me here: [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/eric-echemane-2a3543229/), [Youtube](https://www.youtube.com/channel/UCEjAjj6pswmd04eHhsqOZmw)
+📫 Reach me here: [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/eric-echemane-2a3543229/), [Youtube](https://www.youtube.com/channel/UCEjAjj6pswmd04eHhsqOZmw)
 
 </div>
