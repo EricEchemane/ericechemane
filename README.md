@@ -1,5 +1,5 @@
 <h3 align="center">
-  A Unicorn bridging the gap between <br/> Development✔️ and Design✔️
+  A Unicorn bridging the gap between <br/> ✔️Development and ✔️Design
 </h3>
 
 <h5 align="center">
