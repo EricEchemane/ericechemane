@@ -11,7 +11,7 @@
 
 ### [https://echemane.ml](https://echemane.ml/)
 
-📫 Reach me here: [Facebook](https://www.facebook.com/e.echemane/), [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/eric-echemane-2a3543229/), [Youtube](https://www.youtube.com/@ericechemane3335)
+📫 Reach me here: [Facebook](https://www.facebook.com/e.echemane/), [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/echemane/), [Youtube](https://www.youtube.com/@ericechemane3335)
 
 </div>
 
