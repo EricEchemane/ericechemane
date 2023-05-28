@@ -1,20 +1,18 @@
 <h3 align="center">
-  A Unicorn bridging the gap between <br/> ✔️Development and ✔️Design
+  A unicorn bridging the gap between <br/> ✔️Development and ✔️Design
 </h3>
 
-<h5 align="center">
+<h4 align="center">
 🌟An Engineer who always Perceive Value🌟
 <br/>
-</h5>
+</h4>
 
 <div align="center">
 
 ### [echemane.ml](https://echemane.ml/)
+  
+### Software Engineer @NewstarsINC.
 
 📫 Reach me here: [Facebook](https://www.facebook.com/e.echemane/), [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/echemane/), [Youtube](https://www.youtube.com/@ericechemane3335)
 
-</div>
-
-<div align="center">
-  Software Engineer at Newstars Inc.❤️
 </div>
