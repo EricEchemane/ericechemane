@@ -15,4 +15,6 @@
 
 📫 Reach me here: [Facebook](https://www.facebook.com/e.echemane/), [Instagram](https://www.instagram.com/ericechemane/), [LinkedIn](https://www.linkedin.com/in/echemane/), [Youtube](https://www.youtube.com/@ericechemane3335), [Twitter](https://twitter.com/ericechemane)
 
+*Second github account: [Engineex](https://github.com/engineex/)*
+
 </div>
